@@ -1,0 +1,34 @@
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\12\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+I:\244-ИСП\244ИСП\ОАиП\Фёдорова\ср 3\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
